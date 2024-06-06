@@ -37,7 +37,7 @@ d.	After Creating Project go to Database Section & Build a database
 
 e.	Select M0 & Your Region & Create Database
  
- ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/7bae40c3-fdc1-4fcf-a724-a605f6e95325)
+![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/7bae40c3-fdc1-4fcf-a724-a605f6e95325)
 
 
 
