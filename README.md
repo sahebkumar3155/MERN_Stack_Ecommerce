@@ -24,10 +24,12 @@ a.	Open this link - LINK
 
 b.	After that Sign Up on the website.
  
- ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/0f0bf3fb-3049-44d9-bd89-3ba2072b73c8)
+![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/0f0bf3fb-3049-44d9-bd89-3ba2072b73c8)
 
 
 c.	Click on New Project Option
+
+
 ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/eaf94f4d-fcb5-4d48-852f-d7f701ee97e5)
 
 
