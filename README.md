@@ -98,6 +98,7 @@ l.	And Paste It in index.js replace <password> with password you set previously 
 
 4.	After Installation You will See ‘node_modules’ Folder in the Sidebar
 5.	After that type “npm start” in terminal
+   
    ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/52da7afc-fd65-40f4-a204-1b859bdf1345)
 
 6.	Now Your Project Will Start In Your Default Web Browser
