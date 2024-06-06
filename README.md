@@ -49,14 +49,17 @@ f.	Setup Username & Password & Create User
 
 
 g.	Add IP 0.0.0.0 & Click on Add Entry
+
 ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/57bd270d-5adf-4017-b1c1-836ea2bc7c72)
 
  
 h.	Now Click on Finish & Close
+
 ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/9df3ff8a-5c27-4f31-928b-50cb81cb9ad9)
 
 
 i.	Now Click on Connect
+
 ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/1065f618-4091-499e-8665-e9e27259f2e6)
 
 
@@ -71,6 +74,7 @@ k.	And Copy the Connection String
 
 
 l.	And Paste It in index.js replace <password> with password you set previously in 4.F & save changes
+
 ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/9a6108bd-6850-4210-95a4-62c1b9fb3b5a)
 
 
