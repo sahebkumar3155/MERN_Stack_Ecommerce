@@ -65,49 +65,33 @@ j.	Now Select Compass Option
 
 k.	And Copy the Connection String
 
-
+![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/1e801bda-c42a-4840-a257-2a4878c4a1a3)
 
 
 l.	And Paste It in index.js replace <password> with password you set previously in 4.F & save changes
+![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/9a6108bd-6850-4210-95a4-62c1b9fb3b5a)
 
 
 5.	To Run Project use node .\index.js in Integrated Terminal
  
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/b6014a3c-398f-457a-bac4-6691753b910b)
 
 ❖	Steps To Run Frontend & Admin Panel Of The Project
 
 1.	Open Project Folder In VS Code
 2.	Open Integrated Terminal
-○	Right Click on Sidebar > Select “Open In Integrated Terminal”
+   ○	Right Click on Sidebar > Select “Open In Integrated Terminal”
+
+   ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/befde67c-1012-4552-b662-3e2df5220881)
+
  
  
 3.	Type “npm install” and press Enter and Wait for Installation to be completed (requires Internet)
 
-
-
-
-
+![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/88b03817-0530-4733-8bc1-3f8777e84af3)
 
 4.	After Installation You will See ‘node_modules’ Folder in the Sidebar
 5.	After that type “npm start” in terminal
+   ![image](https://github.com/sahebkumar3155/MERN_Stack_Ecommerce/assets/113451461/52da7afc-fd65-40f4-a204-1b859bdf1345)
 
 6.	Now Your Project Will Start In Your Default Web Browser
